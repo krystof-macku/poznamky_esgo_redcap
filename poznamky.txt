@@ -1,0 +1,197 @@
+25.7.2025
+18:26
+dnes zacinam po dlouhe dobe, dnes bych rad
+odpovedel na emaily
+napsal si poznámky z emailu
+zapsal si hodiny
+zapsal si vše červené z emailu, co je potřeba upravit a z toho následné udělat to do list
+zkustit importovat data do redcap
+
+Poznamky
+je důležité aby v každém projektu byli minimálně 2 lidé, s tím že jeden člověk musí být kačka
+je to z důvodu privacy policy
+taky by tam měli mít přístup dva, protože pokud by třeba jeden z práce odešel, tak jiní můžou pokračovat
+kačka by měla mít stejná práva jako já, tedy administrátor
+
+Jméno projektu
+REDCap initial trial ENGOT
+
+je potřeba abych tam dal tu roli tak aby měla kateřina úplně stejné práva jako já
+ještě bych jí mohl dát práva na mobilní aplikaci, ale to snad ani já nemám
+taky ne všechna práva jsou stejná
+podle mě stačí tam dát full access a bude to dobré, kačka si to kdyžtak udělí sama
+takže teď má i kačka i simona velké právo na vše
+no já ani nemám taková práva
+no to je jedno
+
+email chain
+je to něco co se používá při dlouhých konverzacích
+možná to má co do činění s tím že používám thunderbird, zkusím napsat zprávu přímo z emailu
+zkusím to prostě poslat anničce s vysvětlením
+a až pak se začnu zajímat jak by to šlo udělat i s thunderbird
+emailove vlakno je to co se objevuje dole pod tím emailem, jakože ty předchozí odpovědi
+
+
+Poznámky z emailu s červeným písmem
+Ty otázky nebudu dělat podle té barevné tabulky ale podle souboru který byl poslán v ponddělí
+překlopeno do sheet1 v master dokumentu
+lepší aby všechny možnosti byli dropdown, aby se nemohli vypisovat
+musí to být co nejjednoduší
+určitě bude potřeba smazat ty závorky
+anni neví co myslím tím že se ty tabulky, budou muset upravovat
+je lepší aby respondenti spíš měli stálý přístup než aby si o něj neustále žádali
+
+19:26
+
+20:27
+další půlhodinu bych se chtěl věnovat
+poslaný odkaz aničce
+způsob, jak tabulku předělat
+
+Poznamky
+Jsem v procesu doplňování správných názvů těh dotazů v dotazníku
+ještě to budu muset porovnat s těmi věcmi co mám v té barevné tabulce
+tak jo takže jsem to upravil, no ještě bude potřeba udělat to tak že budu muset buď konzultovat s aničkou nebo se blíže podívat na to jak je to v té tabulce
+
+Opetovne vyplňování dotazníku
+pomocí toho odkazu, co je v survey distribution tools, je možné aby se participanti přihlásili vícekrát, což je fajn
+jo opravdu to funguje že se k té samé survey je možné dostat se vícekrát
+ono sice jde aby se k tomu dotazníku dostali opět znova, ale problém je že ty data budou muset znova vyplnit
+také mě napadlo, že asi bude potřeba aby pravidelně vyplňovali svůj email
+
+při spuštění se objevila chyba v branching logic
+
+2025.07.26
+13:15
+dnes bych se rád věnoval těmto věcem
+správný formát otázek (radio buttons, text, integer...) podle barevné tabulky
+správný formát tabulky pro vložení do redcap
+text o tom jak má tabulka vypadat
+vytvoření nového projektu do kterého budu vkládat csv soubory
+
+Import dat do redcap
+je potřeba, aby názvy sloupců byly v tom formátu, aby se daly použít jako proměné v redcapu
+tabulka by neměla obsahovat žádné prázdné buňky
+zkusím nahradit všechny prázdné buňky hodnotou NULL
+také je důležité, aby datové typy odpovídalu očekávaným datovým typům
+soubor csv by měl být kodovaný pomocí UTF-8
+
+Instrukce pro import dat do redcap
+je možné si stáhnout template na import, zkusím se zeptat aničky, jestli by to mohla vyplňovat do toho templatu
+no taky jsem se dozvěděl, že je potřeba aby ty hodnoty byly zapsané v nějakém tom jejich kodovani
+
+konec 14:15 +-
+
+20:58
+předtím jsem odjel na zbraslav kvůli prokymu, potože neměl ovladač na bránu
+zkusím pokračovat v tom co jsem začal po poledni
+zkusím importovat data podle toho co jsem uviděl v tom staženém template
+zkusím to udělat tak, že vytvořím tu strukturu té tabulky, a potom do ní vložím jednotliý obsah sloupců z té tabulky
+ještě je potřeba abych smazal ten projekt zkušební
+
+
+zjistil jsem, že je potřeba aby proměnné, které se už nachází v názvech sloupců, byli už v tom redcap předpřipravené
+napadlo mě, že jak je tam to rows for redcap, tak bych prostě udělal to že bych v té tabulce rows for redcap měl na jedné straně jméno té položky a na straně druhé by bylo jmeno té proměnné v redcapu
+zkusím importovat data do toho survey kde jsou i simona a kateřína
+jak jsem vytvořil předtím
+ono mě hrozně mate, že pořadí těch proměnných v barevné tabulce je jiné, než jak je to v tom dotazníku
+líbilo be se mi, kdyby to pořadí bylo stejné, aby se to lépe kontrolovalo
+já teď úplně nevím, jestli by nebylo náhodou lepší abych změnil názvy proměnných v tom redcapu podle té tabulky co jsem vytvořil
+ten redcap jsem pojmenovával tak nějak prvoplánově, zato ta tabulka je trochu více promyšlená
+
+
+21:55
+ještě bych chtěl napsat email aničce, jestli by to mohla ukládat do sloupců podle předlohy, kterou bych jí poslal
+
+já bych teď potřeboval udělat to že rozdělím libreoffice na dvě poloviny, na jedné polovině bude ta tabulka s těma proměnýma co jsem vytvořil, a nadruhé bude ta tabulka, protože to potřebuji přejmenovat
+zajímalo by mě jestli je možné kopírovat jednotlivé projekty
+jakože tohle bude nějaký ten master či co
+21:40
+
+23:10
+ještě bych chtěl udělat jednu věc a to že chci dokončit to co jsem začal s tím přejmenováváním
+už se na to chci vysrat
+vlastně ještě teď co bych měl udělat je, no vlastně jenom to nahrát do toho redcapu
+zkusit to
+ještě to zkusim
+ok mrdám na to jsem unavený
+napíšu si tam další čtvrthodinu
+jdu se honit se stelou
+je tam chyba že mi tam chybí
+cooperating_group 
+coop_w_gog
+no zítra se na to podívám
+
+
+27.7.2025
+12:30
+dnes bych se chtěl zabývat těmito věcmi
+	import dat z master do toho redcap
+	oprava proměných 
+	text o průběžné úpravě
+	ve zbytku jsem chtěl sledovat videa o redcapu, která zrovna potřebuji řešit při práci
+	klidně bych se mohl podívat na celé video od brocode zrychlené, ohledně php
+	taky bych chtěl odpovědět na jakékoliv maily, které mi přistály do schránky
+	
+master soubor import
+chybi mi tam cooperating_groups a coop_w_gog
+možná to bude jakýsi překlep
+jo u toho cooperating groups má být s, myslím že v tom csv souboru to není množné
+už jsem to opravil na cooperating groups
+teď ještě to coop_w_gog
+jo v tom dotazníku mám with místo w
+teď by to mělo jít
+aha
+je tu ten problám, že tam jsou už předepsané nějaké kategorie, ale já vlastně, které nesouhlasí s tím co je v tom dotazníku
+to je docela problém
+nevím jak to vyřešit
+je možné celý proces importu rozdělit do několika částí?
+třeba bych nejdříve udělal jen ty proměnné, třeba i bez položky v survey
+no a nebo to budu muset celý ten dotazník upravit tak aby se do něj dalo vložit data
+nebo bych mohl projekt zkopírovat
+a udělat jakoby nový, kde by nebyli všechny ty omezení
+nebo by taky bylo dobré, kdybych si vzal codebook a nahradil bych ty hodnoty v té tabulkce tak, aby souhlasily s tím co jev codebook
+udělal bych to postupně tak že bych nahradil psané hodnoty v daném sloupci s hodnotami číselnými, aby to souhlasilo s tím, co je v tom codebook
+vypadá to že ty chyby se týkají převážně těchto proměnných
+
+
+type_of_trial 
+	hotovo
+coop_w_gog 
+	hotovo
+gog_number
+	hotovo
+status
+	hotovo
+coop_w_apgot
+	hotovo
+	
+
+
+pak už se ty chyby jen opakují
+taky mě teď napadlo udělat si pořádek v té složce pro migraci
+
+Uprava tabulky pro redcap
+nejdříve jsem urpavil názvy sloupců, a potom jsem přidal také record_id sloupe
+nyní potřebuji upravit tu tabulku tak abyto bylo kompatibilní s redcap
+jenže asi ty ženy tam vyplnily d/c a nevím co s tím, zatím udělám co můžu
+
+ještě je potřeba abych aničku přidal do redcapu do 
+
+13:40
+napsal jsem aničce ohledně těch proměnných
+tak uvidim co odepise
+zatím se pokusím ty jasné věci přepsat
+tak ja to asi nějak upravím aby to nějak vypadalo
+tady tyto c/d jsou prá jen u těchto testových co teď dělám
+to gog_number vyřeším přímo v redcap, protože jsem tam podle mě zadal že to může příjmat pouze integer
+14:35
+
+14:55
+tak už jsem to doupravil, a teď se to pokusim nahrát ještě jednou,
+uvídím jaké tam budou errors
+
+
+
+
+
