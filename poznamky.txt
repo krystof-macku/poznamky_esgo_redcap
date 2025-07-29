@@ -190,6 +190,64 @@ to gog_number vyřeším přímo v redcap, protože jsem tam podle mě zadal že
 14:55
 tak už jsem to doupravil, a teď se to pokusim nahrát ještě jednou,
 uvídím jaké tam budou errors
+je to zkurvneně na hovno
+jakože já jsem si myslel že všechny errors už jsem vyřešil, a kurva drát teď mi tam přistály další
+hlavní errors jsou pro tentokrát authorship sequence, kde beru jedenu ze 3 možností
+ono asi teď udělám to že prostě rozvolním ty nároky na urřité data points asi se to nazývá
+no a budu to dělat do té doby, dokud se to nenahraje
+pak si budu muset udělat takový guideline dokument, ve kterém budu moct mít napsané, co v každé otázce má být za odpověď
+
+num patients
+
+spravny import
+uprava tabulky
+nazvy sloupcu
+co nejmiň podminek pro vstup
+nejlepší je asi nejdříve udělat textová pole, napsat tam tu otázku co je potřeba a až potom nahrát
+teď zkusím změnit ty parametry, schválně co se stane
+tak vypadá to, že je možné udělat to tímto způsobem
+
+10:25
+dnes bych rád odpověděl na všechny maily které se mi přes víkend mohli nastřádat
+zapoměl jsem aničku přidat
+tak to teď napravím
+už jsem tam aničku přidal
+no a dál už nevím
+ještě jsem chtěl aničce napsat jestli by mi k té tabulce mohla napsat všechny možnosti jaké vlastně jsou ty různé odpovědi
+protože ten problém, ktery mám je že bych potřeboval mít tu možnost už předem vědět jaké otázky budou mí otevřený konec, jakože odpověď bude textová, a jaká bude jedna ze několika možností
+ještě bych chtěl aničce napsat email, ve kterém bych se jí chtěl zeptat ohledně té možnosti že by mi napsal přesně co jaká otázka bude obsahovat
+
+
+Ahoj Anni,
+myslíš, že by si mi k tomu datasetu který tento týden pošleš mohla dopsat jaká odpověď se na tu či onu otázku očekává? Mám tím namysli jestli se očekává textová odpověď, jestli se očekává výběr z několika možností, jestli se očekává pouze číslo. A utěch otázek, kde se čeká jedna ze z několika možností, mohla by si napsat jaké možnosti to jsou? 
+Mě by to hodně pomohlo z toho důvodu, že když do redcapu budu ty data importovat, tak musí ty odpovědi souhlasit s tím co jsem již předem nastavil v tom dotazníku. 
+Například když mám otázku authorship sequence, tak jsem si myslel že se bude jednat o výběr ze 3 možností: 1st, senior, penultimate position. No ale jako odpovědi se tam často objevovaly odstavce různých zkratek. V té chvíli já vlastně nevím, jestli teda byl správně ten předpoklad, že se jedná o single-choice otázku, nebo jestli ten předpoklad byl chybný a jedná se o otevřenou otázku. Tohle rozhodnutí ovlivní, jestli se mám pustit do práce na čištění dat v tabulce, nebo jestli mám danou otázku změnit z dropdown menu na níčím neomezený textový vstup. 
+Kdybych u sebe měl třeba tabulku nebo nějaký dokument, ve kterém by bylo napsáno jestli je daná otázka open-ended, open-ended integer only nebo single choice, tak by mi to tu úpravu a import dat velice zjednodušilo.
+Kdyby si měla jakékoliv otázky, určitě mi napiš:).
+Měj se hezku
+Kryštof
+
+email jsem už poslal.
+Uvidím, jestli jsem to popsal dobře aby mi anička porozuměla
+teď si jdu do mé práce zapsat i nastavení gitu na tomot počítači
+ok, takže to fungovalo
+nakonec jsem nepoužil ten kod co mi daval chat gpt ale použil jsem ten template co je primo v githubu
+jenže se tam teď pushla ta kopie těch poznámek
+potřebuju udělat add na ten originální soubor poznámek
+nebo jenom dokopíruju co tam chybí
+zkusim ted udel
+
+15:55
+zkusim dnes pracovat v intervalech po 21 minutach, tak mi to casto vyhovuje
+taky me stresuje, ze nemam zadny plan na jidlo
+jakoze nevim jak si nakoupim jidlo
+to me trosku brzdi v praci
+zkusim uplouadnout tz poznamky do githubu
+
+
+
+
+
 
 
 
