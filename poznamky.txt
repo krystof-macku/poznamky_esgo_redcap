@@ -243,11 +243,21 @@ taky me stresuje, ze nemam zadny plan na jidlo
 jakoze nevim jak si nakoupim jidlo
 to me trosku brzdi v praci
 zkusim uplouadnout tz poznamky do githubu
+tyto radky pisu jiz z jiného počšítače, toho stolního
+
+moje ukoly pro dnešní práci
+odpovědět na všechny emaily
+naplanovat si schuzkzu d anničkou ohledně vysvětlení dokumentu
+text o nahrazení record id za trial numbe
+
+ještě mi zbývá abych 
 
 
-
-
-
+povedlo se mi nastavit si hodiny 
+simča mi ukázala jak to uděla že jednotlivé record id můžou být i něco jiného než čísla. Třeba emaily nebo tak 
+z projekt setup do addittional customizations
+s zaškrtnout custom record label
+zjistil jsem, že je by se mohli jednotlivé záznamy rozlišovat pomocí trial number a ne podle record id
 
 
 
