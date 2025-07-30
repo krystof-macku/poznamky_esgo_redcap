@@ -259,6 +259,90 @@ z projekt setup do addittional customizations
 s zaškrtnout custom record label
 zjistil jsem, že je by se mohli jednotlivé záznamy rozlišovat pomocí trial number a ne podle record id
 
+2025.07.30
+9:30
+dnes bych chtěl udělat tyto věci:
+seznam otázek na online schůzku s anničkou
+poznámky k videím z redcap
+nějaké soubory k brocode videu
+poznámky co znamenají jednotlivéí proměnné v datech co posílá anička
+email od simčí
+	hotovo
+
+POZNÁMKY K VIDEO KURZU NA YOUTUBE
+https://www.youtube.com/watch?v=i-ZYxcTZ4Z4&list=PLrnf34ZtZ9FohXnuD6KmwVb1xgbGDu3rY
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+1
+vanderbuilt uni
+can not share redcap account
+development
+production
+	collect data
+analysis/clean up
+complete
+best practices
+	multi choice questions
+	validated text fields
+	group similar variables in separate forms
+	use field notes 
+	keep forms fairly short
+	save frequently
+handle data out of redcap in different programs
+
+2
+i can create folders for different projects
+redcap help and faq is a useful resource
+what is pi?
+	principal investigator
+		a person who is responsible for conduct, overall design, management etc. of the study
+there is a chance to embedd my project, though i am not sure what that means
+after i click the create survey button, there is a survey
+
+3 project setup page
+project in redcap is basically an xml file
+to download or export a file it is an xml file
+in the xml file there are also metadata for the project
+in project setup i can change the project name or the project purpose
+v project setup je možné změnit číslování u recors z automatického na manuální
+můžu do projektu také přidat záložku
+je možné lidi rozdělit do několika sites, aby dotyčný člověk mohl vidět data jen v té site do které je administrátorem přídělen
+sites je asi to na čem pracuje určitá skupina, tedy group v tom redcap
+ještě jsem neudělal to že jsem movnul projekt do production, tedy do sběru dat
+Move to the production mode
+	slouží to k tomu, aby se mohli sesbírat reálná data
+	v production status není možné upravovat pole a otázky v živě (in real time)
+	je al možné upravovat v draft mode, což bude buďto automaticky schváleno, a nebo to bude schváleno administrátorem
+	nevím, jestl jsem administrátor tohodle projektu nebo ne
+
+10:30
+
+
+
+
+
+
+Simča email
+
+
+Ahoj Simčo,
+
+dnes máme s Aničkou online schůzku, tak se jí zeptám co by tam chtěla mít.
+
+Měj se hezky
+Kryštof
+
+
+
 
 
 
