@@ -264,10 +264,13 @@ zjistil jsem, že je by se mohli jednotlivé záznamy rozlišovat pomocí trial 
 dnes bych chtěl udělat tyto věci:
 seznam otázek na online schůzku s anničkou
 poznámky k videím z redcap
+	dělám
 nějaké soubory k brocode videu
 poznámky co znamenají jednotlivéí proměnné v datech co posílá anička
 email od simčí
 	hotovo
+	mzda za do emailu paní kateřině
+	
 
 POZNÁMKY K VIDEO KURZU NA YOUTUBE
 https://www.youtube.com/watch?v=i-ZYxcTZ4Z4&list=PLrnf34ZtZ9FohXnuD6KmwVb1xgbGDu3rY
@@ -336,10 +339,127 @@ Simča email
 
 Ahoj Simčo,
 
+
 dnes máme s Aničkou online schůzku, tak se jí zeptám co by tam chtěla mít.
 
 Měj se hezky
 Kryštof
+
+
+ANNIČKA ONLINE SCHŮZKA
+potřebuji si rychle nainstalovat zoom
+nainstaloval jsem si zoom, ale nidko tam není
+trial je indikátor
+hodí se to, určitě se to hodí
+
+jak to porovnat?
+litera
+	porovnává to kde jsou změny
+není možné to poslat komukoliv
+kočičkz vymzsleli
+	že by se to pořadí přeházelo
+některé otázky zmizí
+15 otázek
+data co se budou posílat se budou měnit
+dotazník by měl jiný 
+mysšlenka:
+	zkrácená nová verze, z té by se udělala nová verze
+	poslaná nová verze 
+	
+doktorky/kočičky
+	máme chairz
+	vedoucí dokři
+	filip, nikoleta, isabel
+		mají největší slovo
+		to jsou pi
+	operationals, projektove manažerky
+		na podobném levlu
+		ony jsou ty co se v tom budou hrabat
+		jsou to doktorky
+		nepraktikují medicínu, dělají administrativu
+		to je těch 30, 40 lidí 
+	neočekáváme, že se trials budou měnit
+	budou udržovat aktuální studie
+	počet studií: 2025/5 50-70 studií
+		to se bude pravidelně aktualizovat
+	jsou tam i nějaké studie, které se nebudou měnit
+	21 skupin
+	administrátorky budou na stejné straně jako mi
+	budou mít takový přístup aby 
+	jde o to aby měli pravidelný 
+	omezit práva těm administrátorkám
+	náhledový přístup měli do všeho
+	uvidí všechno
+	může měnit jen to svoje
+rakušákum jedou 4 studie
+úprava k jen ke svým studiím
+náhled ke všem studiím
+je potřeba aby se tam bylo vidět kolik je změn
+je možné v redcapu vidět změny?
+není dobré aby se záznam duplikoval
+je lepší aby byl jeden dotazník, a ten měl tracking changes
+
+DOTAZNÍK
+type of trrial
+select the correct type
+je možné že dotazník nebudou potřebovat
+
+když se přidává nová studie, tak 
+
+PRÁVA A PŘÍSTUPY 
+
+statistiky 3-5 krát ročně
+kolik studií je podle jednotlivých studií
+chtějí po aničce tabulku, kde viděj počty, nebo nějakou statistiku třeba v excelu
+chtějí vědět	
+	kolik mají pacientek
+	kdo nabírá nejvíce pacienek
+	která skupina má kolik trials
+anička vygeneruje v excelu 
+
+leading group 
+cooperating
+group
+počty 
+
+nevadí hrubá vygenerovaná data
+
+
+tool který je možné na porovnávání
+autorská práva v excelu
+
+
+pomohlo by mi
+dokument k záznamu?
+	no spíše je lepší aby byla jeden dokument pro všechny trial numbers
+	
+	
+trial number
+	open question
+	 
+	 
+	 
+jaké je omezení textu?
+
+fpi jaký formát
+	nejde tam dát časový údaj
+	nějady neřeknou
+	open text 
+buď číslo nebo does not apply
+	potom dal nějaká variable, kde to budou moct napsat
+authorship sequence nebude 
+to je vše do dotazníku 
+	asi udělám nový dotazník, který bude obshahovat 
+	nazev
+		ENGOT trials overview
+budu ignorovat nový sheet
+
+	
+DU
+skupiny a práva poznámky
+tool na porovnávání dvou excel tabulek
+nový projekt podle dotazníku který jsme s anničkou vytvořili
+
 
 
 
