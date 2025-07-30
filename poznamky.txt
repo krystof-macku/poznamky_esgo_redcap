@@ -263,13 +263,27 @@ zjistil jsem, že je by se mohli jednotlivé záznamy rozlišovat pomocí trial 
 9:30
 dnes bych chtěl udělat tyto věci:
 seznam otázek na online schůzku s anničkou
+	HOTOVO
 poznámky k videím z redcap
 	dělám
 nějaké soubory k brocode videu
 poznámky co znamenají jednotlivéí proměnné v datech co posílá anička
+	HOTOVO
 email od simčí
 	hotovo
-	mzda za do emailu paní kateřině
+mzda za do emailu paní kateřině
+	HOTOVO 
+odpracovana data do procesu
+odpoved na email anicce
+	HOTOVO
+tool na porovnávání excel dokumentů
+	aplikace nainstalované
+		HOTOVO
+	aplikace vyzkoušené
+		
+	
+	
+
 	
 
 POZNÁMKY K VIDEO KURZU NA YOUTUBE
@@ -459,6 +473,67 @@ DU
 skupiny a práva poznámky
 tool na porovnávání dvou excel tabulek
 nový projekt podle dotazníku který jsme s anničkou vytvořili
+
+13:40
+
+EMAIL KATARINA kvůli platbě
+
+Dobrý den Katarino,
+
+za měsíc červen bych si rád nechal proplatit 17 hodin. Používám Excel, do procesu budu data ještě doplňovat.
+
+Přeji pěkný den
+Kryštof Macků
+
+email katarine byl odeslan
+
+14:54
+Ahoj Anni,
+také děkuji za dnešní online schůzku. Já jsem si v průběhu dělal poznámky, takže ten ai přepis ani záznam nepotřebuji.
+Měj se hezky
+Kryštof 
+
+
+nástroje na porovnávání dvou xlxs dokumentů (z duck.ai gpt 40)
+
+
+- **DiffPDF**: While primarily for PDFs, you can convert Excel files to PDF and then use DiffPDF to compare them visually. It highlights differences effectively.
+  
+- **LibreOffice Calc**: This tool allows you to open two instances of the same file and manually compare them. You can also use the "Track Changes" feature to see modifications.
+
+- **Gnumeric**: This lightweight spreadsheet application can compare two sheets by visually highlighting differences, making it easy to spot changes.
+
+- **ExcelCompare**: This tool is specifically designed for Excel files, providing a detailed report of differences, including cell values, formulas, and formatting.
+
+- **Meld**: Although it’s not Excel-specific, Meld can compare CSV exports of Excel files. It provides a clear visual representation of differences and is great for text-based comparisons.
+
+These tools can help you effectively compare Excel documents, depending on your specific needs and preferences.
+
+Email aničce, kde si můžu zapsat hodiny k ní do projektu?
+
+Ahoj Anni,
+
+chtěl bych se tě zeptat, kam si můžu zapsat hodiny do tvého projektu? Myslím že to bylo do nějakého ProCESu. Nevíš kde bych mohl ten proces najít? 
+Jo myslíš že bych se mohl tomu toolu věnovat třeba 30 minut? Našel jsem 3 aplikace, které jsou offline, a podle ai umí porovnávat dva excel dokumenty. Já bych je teď rád vyzkoušel, jestli opravdu fungují a popřípadě jak fungují. Tohle jsou jména těch aplikací:
+Meld
+Gnumeric
+DiffPDF
+
+Měj se hezky 
+Kryštof
+
+TENHLE EMAIL (NAHOŘE) JSEM NAKONEC NEODESLAL, O POMOC S PROCESEM JSEM POŽÁDAL KATARINU
+
+
+Ahoj Anni,
+
+Myslíš že bych se mohl tomu toolu věnovat třeba 30 minut? Našel jsem 3 aplikace, které jsou offline, a podle ai umí porovnávat dva excel dokumenty. Já bych je teď rád vyzkoušel, jestli opravdu fungují a popřípadě jak fungují. Tohle jsou jména těch aplikací:
+Meld
+Gnumeric
+DiffPDF
+
+Měj se hezky,
+Kryštof
 
 
 
